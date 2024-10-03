@@ -1,4 +1,4 @@
-package shoperrors
+package errorshandler
 
 import "errors"
 
